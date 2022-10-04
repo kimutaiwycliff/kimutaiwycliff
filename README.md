@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning desktop development in PyQT
 - 💞️ I’m looking to collaborate on data science projects
 - 📫 You can reach me via email on kcliff@tutanota.com
+- 💞️ Check out my portfolio at kimutaiwycliff.github.io
 
 <!---
 kimutaiwycliff/kimutaiwycliff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
